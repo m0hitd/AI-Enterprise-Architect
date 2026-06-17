@@ -52,7 +52,7 @@ Supports **GCP**, **AWS**, and **Azure**.
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/Siddhant-K-code/cloud-architect-ai.git
+git clone (https://github.com/m0hitd/AI-Enterprise-Architect)
 cd cloud-architect-ai
 npm install
 
