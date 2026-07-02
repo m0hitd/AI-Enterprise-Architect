@@ -1,6 +1,6 @@
-# Setup Guide — Cloud Architect AI
+# Setup Guide — StackDraft AI
 
-This guide covers everything you need to get Cloud Architect AI running locally and deployed to Firebase Hosting.
+This guide covers everything you need to get StackDraft AI running locally and deployed to Firebase Hosting.
 
 > [!IMPORTANT]
 > The app uses the **Google Gemini API** directly via the `@google/generative-ai` SDK. It does **not** use the Firebase Vertex AI Extension. Firebase is only used for **static hosting**.
@@ -89,14 +89,14 @@ firebase login
 
 1. Go to [console.firebase.google.com](https://console.firebase.google.com/)
 2. Click **Add project**
-3. Enter a project name (e.g., `cloud-architect-ai`)
+3. Enter a project name (e.g., `stackdraft-ai`)
 4. Enable or skip Google Analytics
 5. Click **Create project**
 
 ### Step 4: Register a web app
 
 1. In the Firebase console, click the **</>** (Web) icon to add a web app
-2. Enter a nickname (e.g., `Cloud Architect AI Web`)
+2. Enter a nickname (e.g., `StackDraft AI Web`)
 3. Check **Also set up Firebase Hosting**
 4. Click **Register app** — note the `firebaseConfig` values shown (you'll need these if you add Firebase Auth or Analytics later)
 5. Click **Next** → **Continue to console**

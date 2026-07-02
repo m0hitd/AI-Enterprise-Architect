@@ -375,7 +375,7 @@ const Index = () => {
                   color: 'var(--mantine-color-text)',
                 }}
               >
-                Cloud Architect AI
+                StackDraft AI
               </Title>
               <Badge variant="light" color="gray" size="lg">
                 Beta
@@ -496,8 +496,8 @@ const Index = () => {
               ABOUT
             </Text>
             <Text size="xs" c="dimmed" mb="md" style={{ lineHeight: 1.4 }}>
-              Cloud Architect AI helps you design cloud architectures using AI. Select a cloud
-              provider, describe your requirements, and get instant diagrams and Terraform code.
+              StackDraft AI helps you draft cloud architectures for your projects using AI. Describe
+              what you want to build, pick a cloud provider, and get instant diagrams and Terraform code.
             </Text>
           </div>
 

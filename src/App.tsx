@@ -2,7 +2,7 @@ import { MantineProvider, createTheme, localStorageColorSchemeManager } from "@m
 import "@mantine/core/styles.css";
 import Index from "./pages";
 
-const colorSchemeManager = localStorageColorSchemeManager({ key: 'cloud-architect-color-scheme' });
+const colorSchemeManager = localStorageColorSchemeManager({ key: 'stackdraft-color-scheme' });
 
 // Create a custom theme for a sleek, modern design
 const theme = createTheme({

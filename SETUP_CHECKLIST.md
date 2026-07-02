@@ -1,4 +1,4 @@
-# Cloud Architect AI — Setup Checklist
+# StackDraft AI — Setup Checklist
 
 Use this checklist to track your setup progress from zero to a running app.
 

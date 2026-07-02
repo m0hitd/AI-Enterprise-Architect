@@ -1,6 +1,6 @@
-# Cloud Architect AI
+# StackDraft AI
 
-> Describe your infrastructure in plain English. Get architecture diagrams, Terraform, and cost estimates — instantly.
+> Describe your project in plain English. Get architecture diagrams, Terraform code, and cost estimates — instantly.
 
 ---
 
@@ -14,7 +14,9 @@
 
 ## Overview
 
-Cloud Architect AI is a browser-based tool that uses Google Gemini to turn natural-language requirements into production-ready cloud architecture proposals. Each proposal includes an interactive diagram, deployable Terraform code, and a monthly cost estimate.
+StackDraft AI is a browser-based tool that uses Google Gemini to turn plain-English project ideas into cloud architecture proposals. Whether you're building a URL shortener, a to-do list API, an email analyser, or any starter project — just describe it and get an interactive diagram, deployable Terraform code, and a monthly cost estimate.
+
+Perfect for freshers, students, and hobbyists who want to learn cloud architecture hands-on.
 
 Supports **GCP**, **AWS**, and **Azure**.
 
@@ -52,7 +54,7 @@ Supports **GCP**, **AWS**, and **Azure**.
 
 ```bash
 # 1. Clone and install
-git clone (https://github.com/m0hitd/AI-Enterprise-Architect)
+git clone https://github.com/m0hitd/AI-Enterprise-Architect
 cd cloud-architect-ai
 npm install
 
@@ -70,7 +72,7 @@ Open [http://localhost:5173](http://localhost:5173). That's it — no Firebase r
 
 ## How It Works
 
-1. **Describe** your system in plain English
+1. **Describe** your project idea in plain English
 2. **Set constraints** — cloud provider, budget, observability preferences
 3. **Generate** — Gemini returns three ranked architecture proposals
 4. **Explore** — switch between proposals, pan and zoom the diagram
