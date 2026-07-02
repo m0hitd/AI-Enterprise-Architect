@@ -6,9 +6,11 @@
 
 ## Screenshots
 
-![Architecture input — describe your requirements, choose a cloud provider and budget](public/assets/Project%20Screenshots/Screenshot%202026-06-11%20175105.png)
+![Architecture diagram — interactive Excalidraw canvas with cloud service nodes](public/assets/Project%20Screenshots/architecture-diagram.png)
 
-![Terraform output — ready-to-deploy HCL with syntax highlighting](public/assets/Project%20Screenshots/Screenshot%20for%20cloud%20aechitect%20ai%204.png)
+![New project modal — describe your requirements, choose a cloud provider and budget](public/assets/Project%20Screenshots/new-project-modal.png)
+
+![Terraform output — ready-to-deploy HCL with syntax highlighting](public/assets/Project%20Screenshots/terraform-output.png)
 
 ---
 
